@@ -1,2 +1,2 @@
 # hello-world
-Final Project for Python
+This is my final project for my script programming course at OSUIT.
